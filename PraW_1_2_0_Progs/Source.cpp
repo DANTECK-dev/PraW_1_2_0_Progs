@@ -41,7 +41,6 @@ void main() {
 			case(4): {SortNote(size, arrName, arrStyle, arrDirector); break; }
 			default: {cout << "¬веденно неверно\n\n"; break; }
 		}
-
 	}
 }
 
